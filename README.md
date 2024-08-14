@@ -6,8 +6,8 @@
 - 👨‍💻 All of my projects details are available at **https://maniyar-safwan.tiiny.site/**
 - 📫 Reach me out through **mdsafwanmaniyar@gmail.com**
 
-<h1 align="center">💼 Intern, Web Developer, and Data Analyst</h1>
-<h3 align="center">Aleap We-Hub | June 2024 – Present</h3>
+# 💼 Intern, Web Developer, and Data Analyst
+**Aleap We-Hub | June 2024 – Present**
 
 - Led initiatives for 2 startups, managing a team of 4; optimized queries, cutting processing time by 35%.
 - Designed and deployed web solutions, boosting site performance by 50% and customer retention by 30%.
@@ -20,5 +20,5 @@
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsafwanmaniyar&theme=shadow_green&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdsafwanmaniyar&theme=shadow_green&hide_border=false)
+
 
