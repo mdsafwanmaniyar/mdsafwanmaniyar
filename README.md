@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maniyar Safwan</h1>
-<h3 align="center">An Innovative problem-solver with a passion for technology, leading teams and driving smart solutions in Python, Java, Web Development, AI-ML, and Cloud Computing.</h3>
+# Hi 👋, I'm Maniyar Safwan
+**An Innovative problem-solver with a passion for technology, leading teams and driving smart solutions in Python, Java, Web Development, AI-ML, and Cloud Computing.**
 
 - 🧑‍🎓 Studing **Computer Science and Engineering** at **Vidya Jyothi Institute of Technology**
 - 🔭 I’m currently working on a Project named **AnomalyShield**
